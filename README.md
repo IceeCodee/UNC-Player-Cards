@@ -12,5 +12,7 @@ Data came from the official UNC basketball website
 
 _You can see a preview of the page below_
 <br>
-[Animation](https://github.com/user-attachments/assets/654f8b5b-ddb0-477c-a1c3-ebe0d2f26c1a)
+
+https://github.com/user-attachments/assets/fe2cd5a9-b1a2-4c12-ae35-5023d1e0311a
+
 
